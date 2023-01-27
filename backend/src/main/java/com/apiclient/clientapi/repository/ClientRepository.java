@@ -8,4 +8,5 @@ import com.apiclient.clientapi.entities.Client;
 @Repository
 public interface ClientRepository extends JpaRepository<Client, Long>{
 
+
 }
